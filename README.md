@@ -5,8 +5,10 @@ This classification can be used in several applications, such as detecting epile
 Clone this repository to your local machine:
 git clone https://github.com/username/EEG-Classification-Project.git
 cd EEG-Classification-Project
+
 Install dependencies:
 pip install -r requirements.txt
+
 Ensure the following Python libraries are installed:
 numpy
 pandas
